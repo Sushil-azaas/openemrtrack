@@ -1,0 +1,21 @@
+$colorname: "MediAngel BlueGreen";
+
+$darkest: #016D91;
+$darker: #018EBC;
+$dark: #0199CD;
+$mid: #01A9E1;
+$midpale: #01B9F6;
+$pale: #d1ddef;
+$midpalepale: #dee7f3;
+$palepale: #10C2FE;
+$palepurple: #e7e6f9;
+$paler: #f3f7fb;
+$midnightblue: #0053CC;
+$white: #fff;
+
+@import "utilities/default_variables";
+
+// Import Bootstrap 4 SCSS Files before doing anything
+// This gets replaced in gulp now -- do not touch
+// bs4import
+@import "../color_base";
