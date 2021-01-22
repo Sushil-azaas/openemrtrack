@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Billing process Program
+ * Billing   process Program
  *
  * This program processes data for claims generation
  *
